@@ -27,3 +27,10 @@
 0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:19:30 +0800] "GET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 1041 http-bio-82-exec-6 1
 0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:19:58 +0800] "POST /checkitem/add.do HTTP/1.1" 200 59 http-bio-82-exec-7 444
 0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:37:13 +0800] "POST /checkitem/add.do HTTP/1.1" 200 59 http-bio-82-exec-9 30
+0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:41:09 +0800] "GET /pages/main.html HTTP/1.1" 304 - http-bio-82-exec-1 37
+0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:41:09 +0800] "GET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 1041 http-bio-82-exec-3 5
+0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:41:09 +0800] "GET /pages/ordersetting.html HTTP/1.1" 404 997 http-bio-82-exec-4 1
+0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:41:09 +0800] "GET /pages/ordersetting.html HTTP/1.1" 404 997 http-bio-82-exec-5 1
+0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:41:11 +0800] "GET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 1041 http-bio-82-exec-6 1
+0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:41:11 +0800] "GET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 1041 http-bio-82-exec-7 1
+0:0:0:0:0:0:0:1 - - [10/Jan/2021:15:41:35 +0800] "POST /checkitem/add.do HTTP/1.1" 200 59 http-bio-82-exec-8 461
